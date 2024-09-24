@@ -1,0 +1,15 @@
+{
+  "name": "crown-piece-be",
+  "version": "1.0.0",
+  "description": "Crown piece backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Crown",
+    "piece"
+  ],
+  "author": "Saranpreet Singh",
+  "license": "ISC"
+}
